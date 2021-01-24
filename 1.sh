@@ -2,7 +2,7 @@
 echo "this is my file"
   free -m
   echo " this is memory usage in my instance"
-  cd /root/danu
+  cd /root/dj
   rm -rf *
-  touch file{1..5}
-  ll
+  touch file1
+  ls -la
